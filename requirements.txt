@@ -6,7 +6,3 @@ plyer
 # Optional — only needed if you actually route to that provider.
 # Gemini, OpenRouter, and Local providers use `requests` only (already above).
 openai   # needed only for the GPT provider (providers/openai_adapter.py)
-# Desktop-only testing (not needed inside the APK build):
-speechrecognition
-pyttsx3
-pyaudio
